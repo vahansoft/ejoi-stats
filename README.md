@@ -2,8 +2,13 @@
 
 European Junior Olympiad in Informatics (eJOI) is a significant event, a stepping-stone, in the development of the elite of the IT industry in Council of Europe member states.
 
-**ejoi-stats** is a simple web application which contains statistics of passed olympiads.
+**ejoi-stats** is a simple web application which contains statistics of passed olympiads. The project is still under development and open for contribution. The project contains backend and frontend. 
 
+Backend is writen on Elixir and the Frontend on React. 
+
+## Motivation
+
+A long time I want to learn Elixir. There comes university coursework )).
 
 ## Support
 
@@ -31,5 +36,3 @@ If you discover a security vulnerability within this project, please send an e-m
 ## License
 
 This software is released under [The MIT License (MIT)](LICENSE).
-
-(c) 2016-2020 Rinvex LLC, Some rights reserved.
